@@ -1,6 +1,17 @@
 # deep-photo-styletransfer
 Code and data for paper "Deep Photo Style Transfer" in theano/Lasagne
 
+Requirements:
+Numpy
+pickle
+skimage
+scipy
+theano
+lasagne
+matplotlib
+PIL
+pycuda
+
 Credits:
 Deep Photo: https://github.com/luanfujun/deep-photo-styletransfer 
 
